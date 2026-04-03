@@ -10,7 +10,7 @@ Examples from live events where genextreme can be used:
 - *PDFs and CDFs* are used to do parametric testing for portfolio risks and hazard defence systems.
 
 
-<br>
+
 **Author** : Aayush Verma <br>
 Created to simplify the exploration of extreme events through code.
 
